@@ -1,0 +1,8 @@
+[package]
+name = "tuesday"
+version = "0.1.0"
+authors = ["Chrys Lovelace <chryslovelace@gmail.com>"]
+edition = "2018"
+
+[build-dependencies]
+time = "*"
