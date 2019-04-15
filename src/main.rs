@@ -1,4 +1,2 @@
-#[cfg(not(tuesday))]
-compile_error!("it's not tuesday!!!!");
-
+#[cfg(tuesday)]
 fn main() {}
